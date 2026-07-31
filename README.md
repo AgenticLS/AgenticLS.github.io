@@ -6,10 +6,10 @@ Static website for **Agentic AI for Biological Discovery: Toward Closed-Loop Lif
 
 | File | Page |
 |------|------|
-| `index.html` | Home — overview, three guiding questions, scope/tracks, key dates, speakers & panelists |
+| `index.html` | Home — overview, three guiding questions, scope/tracks, key dates |
 | `cfp.html` | Call for Papers — dates, scope, submission instructions |
 | `schedule.html` | Tentative schedule |
-| `organizers.html` | Organizers, senior advisory board, area chairs, program committee |
+| `organizers.html` | Organizers and senior advisory board |
 
 Shared assets: `css/style.css`, `js/main.js`, `assets/photos/`, `assets/favicon.svg`.
 
