@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AgenticLS @ NeurIPS 2026 — Agentic AI for Biological Discovery</title>
+<meta name="description" content="AgenticLS: Agentic AI for Biological Discovery — Toward Closed-Loop Life-Science Intelligence. A NeurIPS 2026 workshop, Sydney, December 11, 2026." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<!-- ===== NAV ===== -->
+<header class="nav">
+  <div class="nav-inner">
+    <a class="brand" href="index.html">
+      <span class="logo">AgenticLS</span>
+      <span class="tag">NeurIPS 2026</span>
+    </a>
+    <button class="nav-toggle" aria-label="Menu" aria-expanded="false">&#9776;</button>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="cfp.html">Call for Papers</a></li>
+      <li><a href="schedule.html">Schedule</a></li>
+      <li><a href="organizers.html">Organizers</a></li>
+      <li class="nav-cta"><a href="cfp.html#submit">Submit</a></li>
+    </ul>
+  </div>
+</header>
+
+<!-- ===== HERO ===== -->
+<section class="hero">
+  <div class="wrap">
+    <span class="kicker">NeurIPS 2026 Workshop &middot; Sydney</span>
+    <h1>Agentic AI for Biological Discovery <span class="abbr">(AgenticLS)</span></h1>
+    <p class="tagline">From scientific copilots to closed-loop labs: building, benchmarking, and deploying agentic AI systems for the next generation of life-science discovery.</p>
+    <div class="facts">
+      <div class="fact"><div class="label">Date</div><div class="value">December 11, 2026</div></div>
+      <div class="fact"><div class="label">Location</div><div class="value">Sydney, Australia</div></div>
+      <div class="fact"><div class="label">Venue</div><div class="value">NeurIPS 2026</div></div>
+      <div class="fact"><div class="label">Submissions due</div><div class="value">Sep 16, 2026 (AoE)</div></div>
+    </div>
+    <div class="btns">
+      <a class="btn btn-primary" href="cfp.html#submit">Call for Papers</a>
+      <a class="btn btn-ghost" href="schedule.html">View Schedule</a>
+    </div>
+  </div>
+</section>
+
+<!-- ===== OVERVIEW ===== -->
+<section class="block">
+  <div class="wrap">
+    <h2 class="section-title">About the workshop</h2>
+    <p class="section-lead">
+      The life sciences are entering an era of <b>agentic AI</b> — systems built on tool-using and reasoning
+      frameworks that go beyond static prediction to read literature, call specialized tools, plan multi-step
+      analyses, propose experiments, and in some cases interact directly with laboratories and robotics.
+      This shift is enabled both by frontier LLMs and by a rapidly growing stack of biology-specialized
+      foundation models for proteins, genomes, and single cells.
+    </p>
+    <p class="section-lead">
+      Yet the field remains strikingly young. There is still little consensus on how to build effective
+      life-science agents, when biology-specialized models are necessary versus when general-purpose LLMs
+      suffice, and how to deploy such agents toward the ultimate goal: accelerating biological discovery and
+      drug development. <b>AgenticLS</b> brings together researchers from machine learning, computational
+      biology, experimental biology, drug discovery, and lab automation to tackle these questions as a
+      building, deployment, and evaluation problem.
+    </p>
+
+    <div class="grid cols-3 mt">
+      <div class="card">
+        <span class="num">1</span>
+        <h3>Building agents for discovery</h3>
+        <p>How should we design agent harnesses, orchestrate multi-agent systems, manage long-horizon memory
+        and context, and integrate biological tool ecosystems? What metrics and rewards guide agents toward
+        novel discoveries?</p>
+      </div>
+      <div class="card">
+        <span class="num">2</span>
+        <h3>Generalist vs. specialist</h3>
+        <p>When are frontier general-purpose models (e.g., GPT, Claude) sufficient, and when do
+        biology-specialized models (e.g., AlphaFold, ESM) materially improve planning, reasoning, or
+        downstream outcomes — and can specialists improve via recursive self-improvement?</p>
+      </div>
+      <div class="card">
+        <span class="num">3</span>
+        <h3>Autonomous lab-in-the-loop</h3>
+        <p>How should agentic AI autonomously interface with robotics, assay platforms, and human scientists
+        to enable reliable, iterative experimentation in closed-loop laboratories?</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== TRACKS / SCOPE ===== -->
+<section class="block alt">
+  <div class="wrap">
+    <h2 class="section-title">Scope &amp; topics</h2>
+    <p class="section-lead">We welcome submissions across two tracks spanning the full agentic life-science stack.</p>
+    <div class="grid cols-2">
+      <div class="track">
+        <h3>Track I — Building Agentic Systems for Life Science</h3>
+        <ul>
+          <li><b>Agent architectures &amp; reasoning:</b> LLM-based, multimodal, and retrieval-augmented agents; long-horizon planners; multi-agent scientific collaborations.</li>
+          <li><b>Harness design &amp; orchestration:</b> tool ecosystems and APIs for biology, multi-agent communication and routing, long-horizon memory and context management, knowledge grounding.</li>
+          <li><b>Agentic literature &amp; knowledge systems:</b> hypothesis generation, evidence synthesis, claim verification, protocol assistance, ontology-aware and knowledge-graph-enhanced agents.</li>
+          <li><b>Generalist vs. specialist comparisons:</b> foundation-model backbones, bio-specific instruction tuning, domain adaptation, biological foundation models inside agent pipelines.</li>
+          <li><b>Reinforcement learning for scientific agents:</b> RL from lab-in-the-loop feedback and reward-function design for discovery.</li>
+          <li><b>Recursive self-improvement</b> for bio-specialized models: data generation and curation, automated evaluation, feedback-driven refinement, model-in-the-loop workflows.</li>
+        </ul>
+      </div>
+      <div class="track">
+        <h3>Track II — Closed-Loop Discovery &amp; Applications</h3>
+        <ul>
+          <li><b>Lab-in-the-loop &amp; robotics:</b> closed-loop experimentation, robotic execution, active learning, adaptive experiment planning, autonomous laboratories that learn from wet-lab feedback.</li>
+          <li><b>Agents for biological design &amp; discovery:</b> target identification, sequence and molecular design, structure-based design, CRISPR / perturbation design, assay planning, therapeutic optimization.</li>
+          <li><b>Evaluation &amp; benchmarks:</b> faithfulness, reproducibility, calibrated uncertainty, expert judgment, simulator-to-lab transfer, biological validity, system-level benchmarks.</li>
+          <li><b>Reliability, governance &amp; biosafety:</b> hallucinated biology, biosecurity-aware safeguards, human oversight, traceability, auditability, and deployment standards for scientific agents.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== KEY DATES ===== -->
+<section class="block">
+  <div class="wrap">
+    <h2 class="section-title">Key dates</h2>
+    <div class="callout">
+      <div class="item"><div class="k">Submission deadline</div><div class="v">September 16, 2026 (AoE)</div></div>
+      <div class="item"><div class="k">Author notification</div><div class="v">September 29, 2026 (AoE)</div></div>
+      <div class="item"><div class="k">Camera-ready</div><div class="v">Mid-October 2026</div></div>
+      <div class="item"><div class="k">Workshop day</div><div class="v">December 11, 2026</div></div>
+    </div>
+    <p class="mt"><a class="btn btn-dark" href="cfp.html#submit">Read the full Call for Papers &rarr;</a></p>
+  </div>
+</section>
+
+<!-- ===== SPEAKERS ===== -->
+<section class="block alt">
+  <div class="wrap">
+    <h2 class="section-title">Invited speakers</h2>
+    <p class="section-lead">Five 30-minute invited talks, balanced across frontier-LLM agent research, biology-specialized foundation models, industrial deployment, and the autonomous-laboratory frontier. All invited speakers are confirmed.</p>
+    <div class="people">
+      <div class="person">
+        <img class="photo" src="assets/photos/jure-leskovec.jpeg" alt="Jure Leskovec" />
+        <div class="name">Jure Leskovec</div>
+        <div class="aff">Professor, Stanford University</div>
+        <div class="topic">Biomedical AI agents; knowledge graphs</div>
+      </div>
+      <div class="person">
+        <img class="photo" src="assets/photos/maria-brbic.jpg" alt="Maria Brbić" />
+        <div class="name">Maria Brbić</div>
+        <div class="aff">Assistant Professor, EPFL</div>
+        <div class="topic">Foundation models &amp; agents for cell biology</div>
+      </div>
+      <div class="person">
+        <img class="photo" src="assets/photos/heng-ji.jpeg" alt="Heng Ji" />
+        <div class="name">Heng Ji</div>
+        <div class="aff">Professor, UIUC</div>
+        <div class="topic">Agentic AI for science; LLM reasoning</div>
+      </div>
+      <div class="person">
+        <img class="photo" src="assets/photos/nathan-frey.png" alt="Nathan Frey" />
+        <div class="name">Nathan Frey</div>
+        <div class="aff">Anthropic <span style="white-space:nowrap">(prev. CTO &amp; Co-Founder, Coefficient Bio)</span></div>
+        <div class="topic">Agentic AI for drug discovery</div>
+      </div>
+      <div class="person">
+        <img class="photo" src="assets/photos/michelle-lee.jpg" alt="Michelle Lee" />
+        <div class="name">Michelle Lee</div>
+        <div class="aff">CEO &amp; Founder, Medra AI</div>
+        <div class="topic">Physical-AI scientist; robotic closed-loop biology</div>
+      </div>
+    </div>
+
+    <h2 class="section-title" style="margin-top:52px;">Panelists</h2>
+    <p class="section-lead">A 50-minute panel on the generalist-vs.-specialist debate and the “how to build” question.</p>
+    <div class="people">
+      <div class="person">
+        <img class="photo" src="assets/photos/marinka-zitnik.jpg" alt="Marinka Zitnik" />
+        <div class="name">Marinka Zitnik</div>
+        <div class="aff">Associate Professor, Harvard Medical School</div>
+        <div class="topic">Agentic AI for biology &amp; medicine</div>
+      </div>
+      <div class="person">
+        <img class="photo" src="assets/photos/eli-carrami.jpg" alt="Eli Carrami" />
+        <div class="name">Eli Carrami</div>
+        <div class="aff">Staff Research Scientist, Isomorphic Labs</div>
+        <div class="topic">AI for drug discovery (industry deployment)</div>
+      </div>
+      <div class="person">
+        <img class="photo" src="assets/photos/tommaso-biancalani.jpg" alt="Tommaso Biancalani" />
+        <div class="name">Tommaso Biancalani</div>
+        <div class="aff">SVP, Generative Biology, Lila Sciences</div>
+        <div class="topic">Lab-in-the-loop AI; foundation models for biology</div>
+      </div>
+      <div class="person">
+        <img class="photo" src="assets/photos/le-cong.jpg" alt="Le Cong" />
+        <div class="name">Le Cong</div>
+        <div class="aff">Assistant Professor, Stanford University</div>
+        <div class="topic">Agentic AI for gene-editing experiments</div>
+      </div>
+    </div>
+    <p class="mt center"><a class="btn btn-dark" href="organizers.html">Meet the organizers &amp; committee &rarr;</a></p>
+  </div>
+</section>
+
+<!-- ===== FOOTER ===== -->
+<footer>
+  <div class="wrap">
+    <div class="cols">
+      <div>
+        <h4>AgenticLS @ NeurIPS 2026</h4>
+        <p>Agentic AI for Biological Discovery:<br/>Toward Closed-Loop Life-Science Intelligence</p>
+        <p>December 11, 2026 &middot; Sydney, Australia</p>
+      </div>
+      <div>
+        <h4>Navigate</h4>
+        <p><a href="index.html">Home</a><br/>
+           <a href="cfp.html">Call for Papers</a><br/>
+           <a href="schedule.html">Schedule</a><br/>
+           <a href="organizers.html">Organizers</a></p>
+      </div>
+      <div>
+        <h4>Submit</h4>
+        <p>Submissions via OpenReview.<br/>Non-archival &middot; ≥3 reviews per paper.<br/>
+        <a href="cfp.html#submit">Submission instructions &rarr;</a></p>
+      </div>
+    </div>
+    <p class="muted">Part of the AIDrugX workshop lineage at NeurIPS. Website content is subject to change.</p>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>
