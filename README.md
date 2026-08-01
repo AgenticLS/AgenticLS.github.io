@@ -44,6 +44,7 @@ python3 -m http.server 8000
 ## Editing notes / things to confirm
 
 - **Submission deadline:** Sep 16, 2026 (AoE); **Notification:** Sep 29, 2026 (AoE). Update in `cfp.html` and `index.html` if they change.
-- **OpenReview link:** the "Submit" button in `cfp.html` (id `#submit`) is a placeholder (`href="#"`) — replace with the real OpenReview URL when available.
+- **OpenReview site:** `https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/AgenticLS`.
+- **Organizer contact:** `agenticls@googlegroups.com`.
 - **Page limits** in the CFP (8 pages full / 4 pages short, NeurIPS style) follow common workshop convention — adjust if your final policy differs.
 - **Photos** live in `assets/photos/` (normalized to lowercase-hyphenated names). To swap a photo, replace the file keeping the same name, or update the `<img src=...>` reference.
