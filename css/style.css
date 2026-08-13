@@ -107,10 +107,11 @@ section.block.alt { background: var(--bg-alt); }
 }
 .hero .wrap { position: relative; z-index: 1; }
 .hero .kicker {
-  display: inline-block; font-weight: 700; letter-spacing: .06em;
-  text-transform: uppercase; font-size: .76rem;
-  color: #9fd8cf; background: rgba(11,107,95,.28);
-  padding: 6px 12px; border-radius: 999px; margin-bottom: 18px;
+  display: inline-block; font-weight: 800; letter-spacing: .08em;
+  text-transform: uppercase; font-size: clamp(1rem, 2vw, 1.25rem);
+  color: #d5fff8; background: rgba(11,107,95,.52);
+  padding: 10px 18px; border: 1px solid rgba(126,224,210,.55);
+  border-radius: 999px; margin-bottom: 22px;
 }
 .hero h1 {
   color: #fff; font-size: clamp(1.9rem, 4.4vw, 3rem);
