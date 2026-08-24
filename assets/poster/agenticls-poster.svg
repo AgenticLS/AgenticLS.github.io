@@ -47,18 +47,19 @@
     <rect x="443" y="846" width="334" height="45" rx="11" fill="#eaf3fb"/><text x="460" y="874">Reproducibility, governance &amp; biosafety</text>
   </g>
 
-  <rect x="835" y="416" width="310" height="520" rx="25" fill="#ffffff" fill-opacity=".95" stroke="#8bbce0"/>
+  <rect x="835" y="416" width="310" height="504" rx="25" fill="#ffffff" fill-opacity=".95" stroke="#8bbce0"/>
   <text x="990" y="462" text-anchor="middle" class="section">Call for papers</text>
   <text x="990" y="494" text-anchor="middle" class="sans muted" font-size="15">Full papers: up to 9 pages</text>
   <text x="990" y="516" text-anchor="middle" class="sans muted" font-size="15">Extended abstracts: up to 4 pages</text>
-  <image href="qr-code.png" x="875" y="535" width="230" height="230" preserveAspectRatio="xMidYMid meet"/>
-  <text x="990" y="793" text-anchor="middle" class="caps teal" font-size="14">SUBMISSION DEADLINE</text>
-  <text x="990" y="829" text-anchor="middle" class="title navy" font-size="24">September 18, 2026 <tspan class="sans teal" font-size="14">(AoE)</tspan></text>
-  <text x="990" y="861" text-anchor="middle" class="sans navy" font-size="11" font-weight="700">https://agenticls.github.io</text>
-  <text x="990" y="883" text-anchor="middle" class="sans teal" font-size="11" font-weight="700">Submission link:</text>
-  <text x="990" y="905" text-anchor="middle" class="sans muted" font-size="11">https://openreview.net/group?id=</text>
-  <text x="990" y="925" text-anchor="middle" class="sans muted" font-size="11">NeurIPS.cc/2026/Workshop/AgenticLS</text>
+  <image href="qr-code.png" x="895" y="530" width="190" height="190" preserveAspectRatio="xMidYMid meet"/>
+  <text x="990" y="748" text-anchor="middle" class="caps teal" font-size="14">SUBMISSION DEADLINE</text>
+  <text x="990" y="782" text-anchor="middle" class="title navy" font-size="23">September 18, 2026 <tspan class="sans teal" font-size="14">(AoE)</tspan></text>
+  <text x="990" y="814" text-anchor="middle" class="sans navy" font-size="15" font-weight="700">https://agenticls.github.io</text>
+  <text x="990" y="841" text-anchor="middle" class="sans teal" font-size="15" font-weight="700">Submission link:</text>
+  <text x="990" y="868" text-anchor="middle" class="sans muted" font-size="15" textLength="270" lengthAdjust="spacingAndGlyphs">https://openreview.net/group?id=</text>
+  <text x="990" y="895" text-anchor="middle" class="sans muted" font-size="15" textLength="270" lengthAdjust="spacingAndGlyphs">NeurIPS.cc/2026/Workshop/AgenticLS</text>
 
+  <rect x="30" y="950" width="1140" height="285" rx="25" fill="#ffffff" fill-opacity=".94" stroke="#b9e1e6"/>
   <text x="600" y="985" text-anchor="middle" class="section">Invited Speakers &amp; Panelists</text>
   <g fill="#fff" stroke="#16a4b5" stroke-width="4">
     <circle cx="118" cy="1110" r="61"/><circle cx="278" cy="1110" r="61"/><circle cx="438" cy="1110" r="61"/><circle cx="598" cy="1110" r="61"/>
@@ -73,6 +74,7 @@
   <image href="../photos/tommaso-biancalani.jpg" x="1017" y="1049" width="122" height="122" preserveAspectRatio="xMidYMin slice" clip-path="url(#p7)"/>
   <g text-anchor="middle"><text x="118" y="1192" class="name">Jure Leskovec</text><text x="118" y="1211" class="aff">Stanford</text><text x="278" y="1192" class="name">Maria Brbić</text><text x="278" y="1211" class="aff">EPFL</text><text x="438" y="1192" class="name">Heng Ji</text><text x="438" y="1211" class="aff">UIUC</text><text x="598" y="1192" class="name">Michelle Lee</text><text x="598" y="1211" class="aff">Medra AI</text><text x="758" y="1192" class="name">Marinka Zitnik</text><text x="758" y="1211" class="aff">Harvard</text><text x="918" y="1192" class="name">Eli Carrami</text><text x="918" y="1211" class="aff">Isomorphic Labs</text><text x="1078" y="1192" class="name">Tommaso Biancalani</text><text x="1078" y="1211" class="aff">Lila Sciences</text></g>
 
+  <rect x="30" y="1250" width="1140" height="250" rx="25" fill="#ffffff" fill-opacity=".94" stroke="#c5dff0"/>
   <text x="600" y="1285" text-anchor="middle" class="section">Organizers</text>
   <g fill="#fff" stroke="#52a9d8" stroke-width="4"><circle cx="150" cy="1390" r="56"/><circle cx="330" cy="1390" r="56"/><circle cx="510" cy="1390" r="56"/><circle cx="690" cy="1390" r="56"/><circle cx="870" cy="1390" r="56"/><circle cx="1050" cy="1390" r="56"/></g>
   <image href="../photos/mengdi-wang.jpeg" x="94" y="1334" width="112" height="112" preserveAspectRatio="xMidYMin slice" clip-path="url(#o1)"/><image href="../photos/le-song.jpg" x="274" y="1334" width="112" height="112" preserveAspectRatio="xMidYMin slice" clip-path="url(#o2)"/><image href="../photos/masatoshi-uehara.jpg" x="454" y="1334" width="112" height="112" preserveAspectRatio="xMidYMin slice" clip-path="url(#o3)"/><image href="../photos/xiner-li.png" x="620" y="1334" width="140" height="140" preserveAspectRatio="xMidYMin slice" clip-path="url(#o4)"/><image href="../photos/ehsan-hajiramezanali.png" x="814" y="1334" width="112" height="112" preserveAspectRatio="xMidYMin slice" clip-path="url(#o5)"/><image href="../photos/philipp-schaefer.jpg" x="994" y="1334" width="112" height="112" preserveAspectRatio="xMidYMin slice" clip-path="url(#o6)"/>
