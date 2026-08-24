@@ -1,6 +1,6 @@
 # AgenticLS @ NeurIPS 2026 — Workshop Website
 
-Static website for **Agentic AI for Biological Discovery: Toward Closed-Loop Life-Science Intelligence (AgenticLS)**, a NeurIPS 2026 workshop held in **Sydney on December 11, 2026**.
+Static website for **Agentic AI for Biological Discovery: Toward Closed-Loop Life-Science Intelligence (AgenticLS)**, a NeurIPS 2026 workshop held in **Sydney on December 11 or 12, 2026**.
 
 ## Pages
 
@@ -48,5 +48,5 @@ python3 -m http.server 8000
 - **Submission deadline:** Sep 18, 2026 (AoE); **Notification:** Sep 29, 2026 (AoE). Update in `cfp.html` and `index.html` if they change.
 - **OpenReview site:** `https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/AgenticLS`.
 - **Organizer contact:** `agenticls@googlegroups.com`.
-- **Page limits** in the CFP (8 pages full / 4 pages short, NeurIPS style) follow common workshop convention — adjust if your final policy differs.
+- **Page limits** in the CFP (9 pages full / 4 pages short, NeurIPS style) follow common workshop convention — adjust if your final policy differs.
 - **Photos** live in `assets/photos/` (normalized to lowercase-hyphenated names). To swap a photo, replace the file keeping the same name, or update the `<img src=...>` reference.
