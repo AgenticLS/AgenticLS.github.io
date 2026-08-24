@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .sans{font-family:Arial,Helvetica,sans-serif}.navy{fill:#0c2941}.teal{fill:#087d83}.muted{fill:#496878}
+      .caps{font-family:Arial,Helvetica,sans-serif;font-weight:800;letter-spacing:3px}.title{font-family:Georgia,'Times New Roman',serif;font-weight:700}
+      .section{font-family:Georgia,'Times New Roman',serif;font-size:31px;font-weight:700;fill:#0c2941}.name{font-family:Arial,Helvetica,sans-serif;font-size:15px;font-weight:700;fill:#0c2941}.aff{font-family:Arial,Helvetica,sans-serif;font-size:11px;fill:#496878}
+    </style>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#0c2941" flood-opacity=".12"/></filter>
+    <clipPath id="p1"><circle cx="118" cy="1110" r="57"/></clipPath><clipPath id="p2"><circle cx="278" cy="1110" r="57"/></clipPath>
+    <clipPath id="p3"><circle cx="438" cy="1110" r="57"/></clipPath><clipPath id="p4"><circle cx="598" cy="1110" r="57"/></clipPath>
+    <clipPath id="p5"><circle cx="758" cy="1110" r="57"/></clipPath><clipPath id="p6"><circle cx="918" cy="1110" r="57"/></clipPath>
+    <clipPath id="p7"><circle cx="1078" cy="1110" r="57"/></clipPath>
+    <clipPath id="o1"><circle cx="150" cy="1390" r="52"/></clipPath><clipPath id="o2"><circle cx="330" cy="1390" r="52"/></clipPath>
+    <clipPath id="o3"><circle cx="510" cy="1390" r="52"/></clipPath><clipPath id="o4"><circle cx="690" cy="1390" r="52"/></clipPath>
+    <clipPath id="o5"><circle cx="870" cy="1390" r="52"/></clipPath><clipPath id="o6"><circle cx="1050" cy="1390" r="52"/></clipPath>
+  </defs>
+  <rect width="1200" height="1600" fill="#f8fdff"/>
+  <image href="agenticls-background.png" width="1200" height="1600" preserveAspectRatio="xMidYMid slice" opacity=".72"/>
+
+  <rect x="55" y="48" width="1090" height="338" rx="34" fill="#ffffff" fill-opacity=".91" filter="url(#shadow)"/>
+  <text x="600" y="95" text-anchor="middle" class="caps teal" font-size="22">NEURIPS 2026 WORKSHOP · SYDNEY, AUSTRALIA</text>
+  <text x="600" y="174" text-anchor="middle" class="title navy" font-size="59">Agentic AI for</text>
+  <text x="600" y="238" text-anchor="middle" class="title navy" font-size="59">Biological Discovery</text>
+  <text x="600" y="283" text-anchor="middle" class="sans teal" font-size="25" font-weight="700">AgenticLS</text>
+  <text x="600" y="324" text-anchor="middle" class="sans muted" font-size="20">From scientific copilots to closed-loop laboratories</text>
+  <line x1="265" y1="350" x2="935" y2="350" stroke="#40b9c7" stroke-width="2"/>
+  <text x="600" y="378" text-anchor="middle" class="caps navy" font-size="17">DECEMBER 11, 2026</text>
+
+  <rect x="55" y="416" width="527" height="305" rx="25" fill="#ffffff" fill-opacity=".93" stroke="#8bd2db"/>
+  <text x="88" y="462" class="section">Workshop themes</text>
+  <g class="sans navy" font-size="18">
+    <rect x="88" y="490" width="461" height="50" rx="12" fill="#e4f7f8"/><text x="111" y="521">Agent architectures, reasoning &amp; orchestration</text>
+    <rect x="88" y="551" width="461" height="50" rx="12" fill="#eaf3fb"/><text x="111" y="582">Generalist vs. biology-specialized models</text>
+    <rect x="88" y="612" width="461" height="50" rx="12" fill="#e4f7f8"/><text x="111" y="643">Closed-loop discovery &amp; autonomous labs</text>
+    <rect x="88" y="673" width="461" height="28" rx="10" fill="#eaf3fb"/><text x="111" y="694" font-size="15">Evaluation · reliability · governance · biosafety</text>
+  </g>
+
+  <rect x="618" y="416" width="527" height="305" rx="25" fill="#ffffff" fill-opacity=".93" stroke="#8bbce0"/>
+  <text x="651" y="462" class="section">Call for papers</text>
+  <text x="651" y="510" class="sans muted" font-size="18">Full papers up to 8 pages</text>
+  <text x="651" y="542" class="sans muted" font-size="18">Extended abstracts up to 4 pages</text>
+  <text x="651" y="589" class="caps teal" font-size="15">SUBMISSION DEADLINE</text>
+  <text x="651" y="631" class="title navy" font-size="34">September 18, 2026 <tspan class="sans teal" font-size="18">(AoE)</tspan></text>
+  <text x="651" y="674" class="sans navy" font-size="17" font-weight="700">openreview.net/group?id=</text>
+  <text x="651" y="698" class="sans navy" font-size="17" font-weight="700">NeurIPS.cc/2026/Workshop/AgenticLS</text>
+
+  <rect x="55" y="752" width="1090" height="168" rx="25" fill="#083552" fill-opacity=".96"/>
+  <text x="600" y="800" text-anchor="middle" class="title" fill="#ffffff" font-size="30">Building, benchmarking, and deploying agentic AI</text>
+  <text x="600" y="839" text-anchor="middle" class="title" fill="#ffffff" font-size="30">for the next generation of life-science discovery</text>
+  <text x="600" y="881" text-anchor="middle" class="sans" fill="#bcebf0" font-size="18">Non-archival · Double-blind review · Accepted papers presented as posters</text>
+
+  <text x="600" y="985" text-anchor="middle" class="section">Invited Speakers &amp; Panelists</text>
+  <text x="600" y="1015" text-anchor="middle" class="sans muted" font-size="15">Speakers: Jure Leskovec · Maria Brbić · Heng Ji · Michelle Lee   |   Panelists: Marinka Zitnik · Eli Carrami · Tommaso Biancalani</text>
+  <g fill="#fff" stroke="#16a4b5" stroke-width="4">
+    <circle cx="118" cy="1110" r="61"/><circle cx="278" cy="1110" r="61"/><circle cx="438" cy="1110" r="61"/><circle cx="598" cy="1110" r="61"/>
+    <circle cx="758" cy="1110" r="61"/><circle cx="918" cy="1110" r="61"/><circle cx="1078" cy="1110" r="61"/>
+  </g>
+  <image href="../photos/jure-leskovec.jpeg" x="57" y="1049" width="122" height="122" preserveAspectRatio="xMidYMid slice" clip-path="url(#p1)"/>
+  <image href="../photos/maria-brbic.jpg" x="217" y="1049" width="122" height="122" preserveAspectRatio="xMidYMid slice" clip-path="url(#p2)"/>
+  <image href="../photos/heng-ji.jpeg" x="377" y="1049" width="122" height="122" preserveAspectRatio="xMidYMid slice" clip-path="url(#p3)"/>
+  <image href="../photos/michelle-lee.jpg" x="537" y="1049" width="122" height="122" preserveAspectRatio="xMidYMid slice" clip-path="url(#p4)"/>
+  <image href="../photos/marinka-zitnik.jpg" x="697" y="1049" width="122" height="122" preserveAspectRatio="xMidYMid slice" clip-path="url(#p5)"/>
+  <image href="../photos/eli-carrami.jpg" x="857" y="1049" width="122" height="122" preserveAspectRatio="xMidYMid slice" clip-path="url(#p6)"/>
+  <image href="../photos/tommaso-biancalani.jpg" x="1017" y="1049" width="122" height="122" preserveAspectRatio="xMidYMid slice" clip-path="url(#p7)"/>
+  <g text-anchor="middle"><text x="118" y="1192" class="name">Jure Leskovec</text><text x="118" y="1211" class="aff">Stanford</text><text x="278" y="1192" class="name">Maria Brbić</text><text x="278" y="1211" class="aff">EPFL</text><text x="438" y="1192" class="name">Heng Ji</text><text x="438" y="1211" class="aff">UIUC</text><text x="598" y="1192" class="name">Michelle Lee</text><text x="598" y="1211" class="aff">Medra AI</text><text x="758" y="1192" class="name">Marinka Zitnik</text><text x="758" y="1211" class="aff">Harvard</text><text x="918" y="1192" class="name">Eli Carrami</text><text x="918" y="1211" class="aff">Isomorphic Labs</text><text x="1078" y="1192" class="name">Tommaso Biancalani</text><text x="1078" y="1211" class="aff">Lila Sciences</text></g>
+
+  <text x="600" y="1285" text-anchor="middle" class="section">Organizers</text>
+  <g fill="#fff" stroke="#52a9d8" stroke-width="4"><circle cx="150" cy="1390" r="56"/><circle cx="330" cy="1390" r="56"/><circle cx="510" cy="1390" r="56"/><circle cx="690" cy="1390" r="56"/><circle cx="870" cy="1390" r="56"/><circle cx="1050" cy="1390" r="56"/></g>
+  <image href="../photos/mengdi-wang.jpeg" x="94" y="1334" width="112" height="112" preserveAspectRatio="xMidYMid slice" clip-path="url(#o1)"/><image href="../photos/le-song.jpg" x="274" y="1334" width="112" height="112" preserveAspectRatio="xMidYMid slice" clip-path="url(#o2)"/><image href="../photos/masatoshi-uehara.jpg" x="454" y="1334" width="112" height="112" preserveAspectRatio="xMidYMid slice" clip-path="url(#o3)"/><image href="../photos/xiner-li.png" x="634" y="1334" width="112" height="112" preserveAspectRatio="xMidYMid slice" clip-path="url(#o4)"/><image href="../photos/ehsan-hajiramezanali.png" x="814" y="1334" width="112" height="112" preserveAspectRatio="xMidYMid slice" clip-path="url(#o5)"/><image href="../photos/philipp-schaefer.jpg" x="994" y="1334" width="112" height="112" preserveAspectRatio="xMidYMid slice" clip-path="url(#o6)"/>
+  <g text-anchor="middle"><text x="150" y="1465" class="name">Mengdi Wang</text><text x="330" y="1465" class="name">Le Song</text><text x="510" y="1465" class="name">Masatoshi Uehara</text><text x="690" y="1465" class="name">Xiner Li</text><text x="870" y="1465" class="name">Ehsan Hajiramezanali</text><text x="1050" y="1465" class="name">Philipp Schäfer</text></g>
+
+  <rect x="0" y="1514" width="1200" height="86" fill="#062b48"/>
+  <text x="600" y="1550" text-anchor="middle" class="sans" fill="#ffffff" font-size="18" font-weight="700">agenticls.github.io  ·  agenticls@googlegroups.com</text>
+  <text x="600" y="1578" text-anchor="middle" class="sans" fill="#aeeaf0" font-size="14">Agentic AI for Biological Discovery · Toward Closed-Loop Life-Science Intelligence</text>
+</svg>

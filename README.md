@@ -13,6 +13,8 @@ Static website for **Agentic AI for Biological Discovery: Toward Closed-Loop Lif
 
 Shared assets: `css/style.css`, `js/main.js`, `assets/photos/`, `assets/favicon.svg`.
 
+Workshop advertisement assets are in `assets/poster/`. The SVG poster is editable and uses the site portraits plus a generated light scientific background.
+
 ## Preview locally
 
 Open `index.html` directly in a browser, or serve the folder:
