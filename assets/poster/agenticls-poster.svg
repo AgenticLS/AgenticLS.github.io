@@ -26,28 +26,35 @@
   <line x1="265" y1="350" x2="935" y2="350" stroke="#40b9c7" stroke-width="2"/>
   <text x="600" y="378" text-anchor="middle" class="caps navy" font-size="17">DECEMBER 11, 2026</text>
 
-  <rect x="55" y="416" width="527" height="305" rx="25" fill="#ffffff" fill-opacity=".93" stroke="#8bd2db"/>
-  <text x="88" y="462" class="section">Workshop themes</text>
-  <g class="sans navy" font-size="18">
-    <rect x="88" y="490" width="461" height="50" rx="12" fill="#e4f7f8"/><text x="111" y="521">Agent architectures, reasoning &amp; orchestration</text>
-    <rect x="88" y="551" width="461" height="50" rx="12" fill="#eaf3fb"/><text x="111" y="582">Generalist vs. biology-specialized models</text>
-    <rect x="88" y="612" width="461" height="50" rx="12" fill="#e4f7f8"/><text x="111" y="643">Closed-loop discovery &amp; autonomous labs</text>
-    <rect x="88" y="673" width="461" height="28" rx="10" fill="#eaf3fb"/><text x="111" y="694" font-size="15">Evaluation · reliability · governance · biosafety</text>
+  <rect x="55" y="416" width="755" height="504" rx="25" fill="#ffffff" fill-opacity=".94" stroke="#8bd2db"/>
+  <text x="88" y="462" class="section">Topics of interest</text>
+  <text x="88" y="488" class="sans muted" font-size="15">We welcome agent and LLM research across the breadth of life science, including:</text>
+  <g class="sans navy" font-size="15">
+    <rect x="88" y="510" width="334" height="45" rx="11" fill="#e4f7f8"/><text x="105" y="538">LLM agents &amp; scientific copilots</text>
+    <rect x="443" y="510" width="334" height="45" rx="11" fill="#eaf3fb"/><text x="460" y="538">Agent architectures &amp; multi-agent systems</text>
+    <rect x="88" y="566" width="334" height="45" rx="11" fill="#eaf3fb"/><text x="105" y="594">Reasoning, planning, memory &amp; tool use</text>
+    <rect x="443" y="566" width="334" height="45" rx="11" fill="#e4f7f8"/><text x="460" y="594">RAG, knowledge graphs &amp; literature agents</text>
+    <rect x="88" y="622" width="334" height="45" rx="11" fill="#e4f7f8"/><text x="105" y="650">Multimodal agents for scientific data</text>
+    <rect x="443" y="622" width="334" height="45" rx="11" fill="#eaf3fb"/><text x="460" y="650">Protein, genome &amp; single-cell models</text>
+    <rect x="88" y="678" width="334" height="45" rx="11" fill="#eaf3fb"/><text x="105" y="706">Generalist vs. biology-specialized models</text>
+    <rect x="443" y="678" width="334" height="45" rx="11" fill="#e4f7f8"/><text x="460" y="706">Hypothesis generation &amp; evidence synthesis</text>
+    <rect x="88" y="734" width="334" height="45" rx="11" fill="#e4f7f8"/><text x="105" y="762">Molecule, protein &amp; sequence design</text>
+    <rect x="443" y="734" width="334" height="45" rx="11" fill="#eaf3fb"/><text x="460" y="762">Drug discovery &amp; therapeutic development</text>
+    <rect x="88" y="790" width="334" height="45" rx="11" fill="#eaf3fb"/><text x="105" y="818">Lab automation, robotics &amp; closed loops</text>
+    <rect x="443" y="790" width="334" height="45" rx="11" fill="#e4f7f8"/><text x="460" y="818">RL, feedback &amp; recursive improvement</text>
+    <rect x="88" y="846" width="334" height="45" rx="11" fill="#e4f7f8"/><text x="105" y="874">Benchmarks, evaluation &amp; reliability</text>
+    <rect x="443" y="846" width="334" height="45" rx="11" fill="#eaf3fb"/><text x="460" y="874">Reproducibility, governance &amp; biosafety</text>
   </g>
 
-  <rect x="618" y="416" width="527" height="305" rx="25" fill="#ffffff" fill-opacity=".93" stroke="#8bbce0"/>
-  <text x="651" y="462" class="section">Call for papers</text>
-  <text x="651" y="510" class="sans muted" font-size="18">Full papers up to 8 pages</text>
-  <text x="651" y="542" class="sans muted" font-size="18">Extended abstracts up to 4 pages</text>
-  <text x="651" y="589" class="caps teal" font-size="15">SUBMISSION DEADLINE</text>
-  <text x="651" y="631" class="title navy" font-size="34">September 18, 2026 <tspan class="sans teal" font-size="18">(AoE)</tspan></text>
-  <text x="651" y="674" class="sans navy" font-size="17" font-weight="700">openreview.net/group?id=</text>
-  <text x="651" y="698" class="sans navy" font-size="17" font-weight="700">NeurIPS.cc/2026/Workshop/AgenticLS</text>
-
-  <rect x="55" y="752" width="1090" height="168" rx="25" fill="#083552" fill-opacity=".96"/>
-  <text x="600" y="800" text-anchor="middle" class="title" fill="#ffffff" font-size="30">Building, benchmarking, and deploying agentic AI</text>
-  <text x="600" y="839" text-anchor="middle" class="title" fill="#ffffff" font-size="30">for the next generation of life-science discovery</text>
-  <text x="600" y="881" text-anchor="middle" class="sans" fill="#bcebf0" font-size="18">Non-archival · Double-blind review · Accepted papers presented as posters</text>
+  <rect x="835" y="416" width="310" height="504" rx="25" fill="#ffffff" fill-opacity=".95" stroke="#8bbce0"/>
+  <text x="990" y="462" text-anchor="middle" class="section">Call for papers</text>
+  <text x="990" y="494" text-anchor="middle" class="sans muted" font-size="15">Full papers: up to 8 pages</text>
+  <text x="990" y="516" text-anchor="middle" class="sans muted" font-size="15">Extended abstracts: up to 4 pages</text>
+  <image href="qr-code.png" x="875" y="535" width="230" height="230" preserveAspectRatio="xMidYMid meet"/>
+  <text x="990" y="793" text-anchor="middle" class="caps teal" font-size="14">SUBMISSION DEADLINE</text>
+  <text x="990" y="829" text-anchor="middle" class="title navy" font-size="25">September 18, 2026</text>
+  <text x="990" y="855" text-anchor="middle" class="sans teal" font-size="16" font-weight="700">Anywhere on Earth</text>
+  <text x="990" y="887" text-anchor="middle" class="sans navy" font-size="13" font-weight="700">agenticls.github.io</text>
 
   <text x="600" y="985" text-anchor="middle" class="section">Invited Speakers &amp; Panelists</text>
   <text x="600" y="1015" text-anchor="middle" class="sans muted" font-size="15">Speakers: Jure Leskovec · Maria Brbić · Heng Ji · Michelle Lee   |   Panelists: Marinka Zitnik · Eli Carrami · Tommaso Biancalani</text>
@@ -55,18 +62,18 @@
     <circle cx="118" cy="1110" r="61"/><circle cx="278" cy="1110" r="61"/><circle cx="438" cy="1110" r="61"/><circle cx="598" cy="1110" r="61"/>
     <circle cx="758" cy="1110" r="61"/><circle cx="918" cy="1110" r="61"/><circle cx="1078" cy="1110" r="61"/>
   </g>
-  <image href="../photos/jure-leskovec.jpeg" x="57" y="1049" width="122" height="122" preserveAspectRatio="xMidYMid slice" clip-path="url(#p1)"/>
-  <image href="../photos/maria-brbic.jpg" x="217" y="1049" width="122" height="122" preserveAspectRatio="xMidYMid slice" clip-path="url(#p2)"/>
-  <image href="../photos/heng-ji.jpeg" x="377" y="1049" width="122" height="122" preserveAspectRatio="xMidYMid slice" clip-path="url(#p3)"/>
-  <image href="../photos/michelle-lee.jpg" x="537" y="1049" width="122" height="122" preserveAspectRatio="xMidYMid slice" clip-path="url(#p4)"/>
-  <image href="../photos/marinka-zitnik.jpg" x="697" y="1049" width="122" height="122" preserveAspectRatio="xMidYMid slice" clip-path="url(#p5)"/>
-  <image href="../photos/eli-carrami.jpg" x="857" y="1049" width="122" height="122" preserveAspectRatio="xMidYMid slice" clip-path="url(#p6)"/>
-  <image href="../photos/tommaso-biancalani.jpg" x="1017" y="1049" width="122" height="122" preserveAspectRatio="xMidYMid slice" clip-path="url(#p7)"/>
+  <image href="../photos/jure-leskovec.jpeg" x="57" y="1049" width="122" height="122" preserveAspectRatio="xMidYMin slice" clip-path="url(#p1)"/>
+  <image href="../photos/maria-brbic.jpg" x="217" y="1049" width="122" height="122" preserveAspectRatio="xMidYMin slice" clip-path="url(#p2)"/>
+  <image href="../photos/heng-ji.jpeg" x="377" y="1049" width="122" height="122" preserveAspectRatio="xMidYMin slice" clip-path="url(#p3)"/>
+  <image href="../photos/michelle-lee.jpg" x="537" y="1049" width="122" height="122" preserveAspectRatio="xMidYMin slice" clip-path="url(#p4)"/>
+  <image href="../photos/marinka-zitnik.jpg" x="697" y="1049" width="122" height="122" preserveAspectRatio="xMidYMin slice" clip-path="url(#p5)"/>
+  <image href="../photos/eli-carrami.jpg" x="857" y="1049" width="122" height="122" preserveAspectRatio="xMidYMin slice" clip-path="url(#p6)"/>
+  <image href="../photos/tommaso-biancalani.jpg" x="1017" y="1049" width="122" height="122" preserveAspectRatio="xMidYMin slice" clip-path="url(#p7)"/>
   <g text-anchor="middle"><text x="118" y="1192" class="name">Jure Leskovec</text><text x="118" y="1211" class="aff">Stanford</text><text x="278" y="1192" class="name">Maria Brbić</text><text x="278" y="1211" class="aff">EPFL</text><text x="438" y="1192" class="name">Heng Ji</text><text x="438" y="1211" class="aff">UIUC</text><text x="598" y="1192" class="name">Michelle Lee</text><text x="598" y="1211" class="aff">Medra AI</text><text x="758" y="1192" class="name">Marinka Zitnik</text><text x="758" y="1211" class="aff">Harvard</text><text x="918" y="1192" class="name">Eli Carrami</text><text x="918" y="1211" class="aff">Isomorphic Labs</text><text x="1078" y="1192" class="name">Tommaso Biancalani</text><text x="1078" y="1211" class="aff">Lila Sciences</text></g>
 
   <text x="600" y="1285" text-anchor="middle" class="section">Organizers</text>
   <g fill="#fff" stroke="#52a9d8" stroke-width="4"><circle cx="150" cy="1390" r="56"/><circle cx="330" cy="1390" r="56"/><circle cx="510" cy="1390" r="56"/><circle cx="690" cy="1390" r="56"/><circle cx="870" cy="1390" r="56"/><circle cx="1050" cy="1390" r="56"/></g>
-  <image href="../photos/mengdi-wang.jpeg" x="94" y="1334" width="112" height="112" preserveAspectRatio="xMidYMid slice" clip-path="url(#o1)"/><image href="../photos/le-song.jpg" x="274" y="1334" width="112" height="112" preserveAspectRatio="xMidYMid slice" clip-path="url(#o2)"/><image href="../photos/masatoshi-uehara.jpg" x="454" y="1334" width="112" height="112" preserveAspectRatio="xMidYMid slice" clip-path="url(#o3)"/><image href="../photos/xiner-li.png" x="634" y="1334" width="112" height="112" preserveAspectRatio="xMidYMid slice" clip-path="url(#o4)"/><image href="../photos/ehsan-hajiramezanali.png" x="814" y="1334" width="112" height="112" preserveAspectRatio="xMidYMid slice" clip-path="url(#o5)"/><image href="../photos/philipp-schaefer.jpg" x="994" y="1334" width="112" height="112" preserveAspectRatio="xMidYMid slice" clip-path="url(#o6)"/>
+  <image href="../photos/mengdi-wang.jpeg" x="94" y="1334" width="112" height="112" preserveAspectRatio="xMidYMin slice" clip-path="url(#o1)"/><image href="../photos/le-song.jpg" x="274" y="1334" width="112" height="112" preserveAspectRatio="xMidYMin slice" clip-path="url(#o2)"/><image href="../photos/masatoshi-uehara.jpg" x="454" y="1334" width="112" height="112" preserveAspectRatio="xMidYMin slice" clip-path="url(#o3)"/><image href="../photos/xiner-li.png" x="634" y="1334" width="112" height="112" preserveAspectRatio="xMidYMin slice" clip-path="url(#o4)"/><image href="../photos/ehsan-hajiramezanali.png" x="814" y="1334" width="112" height="112" preserveAspectRatio="xMidYMin slice" clip-path="url(#o5)"/><image href="../photos/philipp-schaefer.jpg" x="994" y="1334" width="112" height="112" preserveAspectRatio="xMidYMin slice" clip-path="url(#o6)"/>
   <g text-anchor="middle"><text x="150" y="1465" class="name">Mengdi Wang</text><text x="330" y="1465" class="name">Le Song</text><text x="510" y="1465" class="name">Masatoshi Uehara</text><text x="690" y="1465" class="name">Xiner Li</text><text x="870" y="1465" class="name">Ehsan Hajiramezanali</text><text x="1050" y="1465" class="name">Philipp Schäfer</text></g>
 
   <rect x="0" y="1514" width="1200" height="86" fill="#062b48"/>
