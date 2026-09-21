@@ -190,9 +190,10 @@ section.block.alt { background: var(--bg-alt); }
 /* ---------- People grids ---------- */
 .people { display: grid; grid-template-columns: repeat(4, 1fr); gap: 26px 20px; }
 .people.cols-3 { grid-template-columns: repeat(3, 1fr); }
+.people.speaker-row { grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 26px 14px; }
 .people.organizer-row { grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 26px 12px; }
 @media (max-width: 900px) { .people { grid-template-columns: repeat(3, 1fr); } }
-@media (max-width: 680px) { .people, .people.cols-3, .people.organizer-row { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 680px) { .people, .people.cols-3, .people.speaker-row, .people.organizer-row { grid-template-columns: repeat(2, 1fr); } }
 
 .person { text-align: center; }
 .person .photo {
