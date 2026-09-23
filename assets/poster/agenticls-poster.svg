@@ -6,11 +6,10 @@
       .section{font-family:Georgia,'Times New Roman',serif;font-size:31px;font-weight:700;fill:#0c2941}.name{font-family:Arial,Helvetica,sans-serif;font-size:15px;font-weight:700;fill:#0c2941}.aff{font-family:Arial,Helvetica,sans-serif;font-size:11px;fill:#496878}
     </style>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#0c2941" flood-opacity=".12"/></filter>
-    <clipPath id="p1"><circle cx="80" cy="1110" r="45"/></clipPath><clipPath id="p2"><circle cx="210" cy="1110" r="45"/></clipPath>
-    <clipPath id="p3"><circle cx="340" cy="1110" r="45"/></clipPath><clipPath id="p4"><circle cx="470" cy="1110" r="45"/></clipPath>
-    <clipPath id="p5"><circle cx="600" cy="1110" r="45"/></clipPath><clipPath id="p6"><circle cx="730" cy="1110" r="45"/></clipPath>
-    <clipPath id="p7"><circle cx="860" cy="1110" r="45"/></clipPath><clipPath id="p8"><circle cx="990" cy="1110" r="45"/></clipPath>
-    <clipPath id="p9"><circle cx="1120" cy="1110" r="45"/></clipPath>
+    <clipPath id="p1"><circle cx="95" cy="1110" r="49"/></clipPath><clipPath id="p2"><circle cx="239" cy="1110" r="49"/></clipPath>
+    <clipPath id="p3"><circle cx="383" cy="1110" r="49"/></clipPath><clipPath id="p4"><circle cx="527" cy="1110" r="49"/></clipPath>
+    <clipPath id="p5"><circle cx="671" cy="1110" r="49"/></clipPath><clipPath id="p6"><circle cx="815" cy="1110" r="49"/></clipPath>
+    <clipPath id="p7"><circle cx="959" cy="1110" r="49"/></clipPath><clipPath id="p8"><circle cx="1103" cy="1110" r="49"/></clipPath>
     <clipPath id="o1"><circle cx="150" cy="1390" r="52"/></clipPath><clipPath id="o2"><circle cx="330" cy="1390" r="52"/></clipPath>
     <clipPath id="o3"><circle cx="510" cy="1390" r="52"/></clipPath><clipPath id="o4"><circle cx="690" cy="1390" r="52"/></clipPath>
     <clipPath id="o5"><circle cx="870" cy="1390" r="52"/></clipPath><clipPath id="o6"><circle cx="1050" cy="1390" r="52"/></clipPath>
@@ -63,19 +62,18 @@
   <rect x="30" y="950" width="1140" height="285" rx="25" fill="#ffffff" fill-opacity=".94" stroke="#b9e1e6"/>
   <text x="600" y="985" text-anchor="middle" class="section">Invited Speakers &amp; Panelists</text>
   <g fill="#fff" stroke="#16a4b5" stroke-width="4">
-    <circle cx="80" cy="1110" r="49"/><circle cx="210" cy="1110" r="49"/><circle cx="340" cy="1110" r="49"/><circle cx="470" cy="1110" r="49"/><circle cx="600" cy="1110" r="49"/>
-    <circle cx="730" cy="1110" r="49"/><circle cx="860" cy="1110" r="49"/><circle cx="990" cy="1110" r="49"/><circle cx="1120" cy="1110" r="49"/>
+    <circle cx="95" cy="1110" r="53"/><circle cx="239" cy="1110" r="53"/><circle cx="383" cy="1110" r="53"/><circle cx="527" cy="1110" r="53"/>
+    <circle cx="671" cy="1110" r="53"/><circle cx="815" cy="1110" r="53"/><circle cx="959" cy="1110" r="53"/><circle cx="1103" cy="1110" r="53"/>
   </g>
-  <image href="../photos/jure-leskovec.jpeg" x="35" y="1065" width="90" height="90" preserveAspectRatio="xMidYMin slice" clip-path="url(#p1)"/>
-  <image href="../photos/maria-brbic.jpg" x="165" y="1065" width="90" height="90" preserveAspectRatio="xMidYMin slice" clip-path="url(#p2)"/>
-  <image href="../photos/heng-ji.jpeg" x="295" y="1065" width="90" height="90" preserveAspectRatio="xMidYMin slice" clip-path="url(#p3)"/>
-  <image href="../photos/joy-jiao.jpeg" x="425" y="1065" width="90" height="90" preserveAspectRatio="xMidYMin slice" clip-path="url(#p4)"/>
-  <image href="../photos/michelle-lee.jpg" x="555" y="1065" width="90" height="90" preserveAspectRatio="xMidYMin slice" clip-path="url(#p5)"/>
-  <image href="../photos/marinka-zitnik.jpg" x="685" y="1065" width="90" height="90" preserveAspectRatio="xMidYMin slice" clip-path="url(#p6)"/>
-  <image href="../photos/eli-carrami.jpg" x="815" y="1065" width="90" height="90" preserveAspectRatio="xMidYMin slice" clip-path="url(#p7)"/>
-  <image href="../photos/tommaso-biancalani.jpg" x="945" y="1065" width="90" height="90" preserveAspectRatio="xMidYMin slice" clip-path="url(#p8)"/>
-  <image href="../photos/le-cong.jpeg" x="1075" y="1065" width="90" height="90" preserveAspectRatio="xMidYMin slice" clip-path="url(#p9)"/>
-  <g text-anchor="middle"><text x="80" y="1175" class="name">Jure Leskovec</text><text x="80" y="1195" class="aff">Stanford</text><text x="210" y="1175" class="name">Maria Brbić</text><text x="210" y="1195" class="aff">EPFL</text><text x="340" y="1175" class="name">Heng Ji</text><text x="340" y="1195" class="aff">UIUC</text><text x="470" y="1175" class="name">Joy Jiao</text><text x="470" y="1195" class="aff">OpenAI</text><text x="600" y="1175" class="name">Michelle Lee</text><text x="600" y="1195" class="aff">Medra AI</text><text x="730" y="1175" class="name">Marinka Zitnik</text><text x="730" y="1195" class="aff">Harvard</text><text x="860" y="1175" class="name">Eli Carrami</text><text x="860" y="1195" class="aff">Isomorphic Labs</text><text x="990" y="1175" class="name" font-size="12">Tommaso Biancalani</text><text x="990" y="1195" class="aff">Lila Sciences</text><text x="1120" y="1175" class="name">Le Cong</text><text x="1120" y="1195" class="aff">Stanford</text></g>
+  <image href="../photos/jure-leskovec.jpeg" x="42" y="1057" width="106" height="106" preserveAspectRatio="xMidYMin slice" clip-path="url(#p1)"/>
+  <image href="../photos/maria-brbic.jpg" x="186" y="1057" width="106" height="106" preserveAspectRatio="xMidYMin slice" clip-path="url(#p2)"/>
+  <image href="../photos/heng-ji.jpeg" x="330" y="1057" width="106" height="106" preserveAspectRatio="xMidYMin slice" clip-path="url(#p3)"/>
+  <image href="../photos/joy-jiao.jpeg" x="474" y="1057" width="106" height="106" preserveAspectRatio="xMidYMin slice" clip-path="url(#p4)"/>
+  <image href="../photos/michelle-lee.jpg" x="618" y="1057" width="106" height="106" preserveAspectRatio="xMidYMin slice" clip-path="url(#p5)"/>
+  <image href="../photos/marinka-zitnik.jpg" x="762" y="1057" width="106" height="106" preserveAspectRatio="xMidYMin slice" clip-path="url(#p6)"/>
+  <image href="../photos/eli-carrami.jpg" x="906" y="1057" width="106" height="106" preserveAspectRatio="xMidYMin slice" clip-path="url(#p7)"/>
+  <image href="../photos/tommaso-biancalani.jpg" x="1050" y="1057" width="106" height="106" preserveAspectRatio="xMidYMin slice" clip-path="url(#p8)"/>
+  <g text-anchor="middle"><text x="95" y="1182" class="name">Jure Leskovec</text><text x="95" y="1202" class="aff">Stanford</text><text x="239" y="1182" class="name">Maria Brbić</text><text x="239" y="1202" class="aff">EPFL</text><text x="383" y="1182" class="name">Heng Ji</text><text x="383" y="1202" class="aff">UIUC</text><text x="527" y="1182" class="name">Joy Jiao</text><text x="527" y="1202" class="aff">OpenAI</text><text x="671" y="1182" class="name">Michelle Lee</text><text x="671" y="1202" class="aff">Medra AI</text><text x="815" y="1182" class="name">Marinka Zitnik</text><text x="815" y="1202" class="aff">Harvard</text><text x="959" y="1182" class="name">Eli Carrami</text><text x="959" y="1202" class="aff">Isomorphic Labs</text><text x="1103" y="1182" class="name" font-size="13">Tommaso Biancalani</text><text x="1103" y="1202" class="aff">Lila Sciences</text></g>
 
   <rect x="30" y="1250" width="1140" height="250" rx="25" fill="#ffffff" fill-opacity=".94" stroke="#c5dff0"/>
   <text x="600" y="1285" text-anchor="middle" class="section">Organizers</text>
